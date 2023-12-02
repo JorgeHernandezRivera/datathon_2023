@@ -1,5 +1,12 @@
 #aicdatathon2023    
 
+# Equipo 4: Equipo Dinamita
+
+# Miembros del equipo:
+
+- Emmanuel De Atocha Zamora Hoil
+- Jorge de Jesus Hernandez Rivera
+- Gabriel Solano De Sixto
 
 # Datatón de Análisis de Recursos Humanos (HR Analytics)
 
