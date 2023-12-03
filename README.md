@@ -2,6 +2,10 @@
 
 # Equipo 4: Equipo Dinamita
 
+* Jorge de Jesus Hernandez Rivera
+* Emmanuel De Atocha Zamora Hoil
+* Gabriel Solano De Sixto
+
 # Datatón de Análisis de Recursos Humanos (HR Analytics)
 
 ## Actividad y Dataset(s) 
