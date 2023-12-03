@@ -46,15 +46,31 @@ Se proporcionará a los participantes un conjunto de datos* detallado relacionad
 
 ## Entregables
 - **Introducción y Antecedentes de la Problemática a Resolver**: Se sugiere hacer una revisión de la literatura.
+
+
 - **Análisis Exploratorio**: Describir y documentar cada uno de los pasos (recolección, limpieza, transformación, creación de nuevas variables, etc).
+
+* [Cuaderno EDA](https://colab.research.google.com/drive/1NbMyz86tiN9aPxdEjK_B5uoXBiFXYp4v?usp=sharing)
+
 - **Visualizaciones**: Gráficos interactivos y/o mapas para una mejor comprensión de los datos.
+
+* [DasboardGenerado](https://lookerstudio.google.com/reporting/7aa13f91-a5b4-4f40-94d7-9c4d3c599141)
+
 - **Data Schema**:
   - **ER**: Modelo entidad-relación para la estructura de datos.
   - **DB**: Diseño de la base de datos para gestionar los datasets.
+
 - **Modelo(s) de Machine/Deep Learning**
+
+* [Cuaderno Modelo](https://colab.research.google.com/drive/1XhoTLMH15UUSfFE7uJxbNAoeWXWCnKq6?usp=sharing)
+
 - **Desarrollo de API**
+
 - **Deployment**: Uso de alguna plataforma en el cual se pueda hacer consulta de la aplicación generada (Shiny, Streamlit, GitHub Pages).
+
 - **Reporte Final** (con perspectiva de negocio) que incluya sus resultados y discusiones, así como una sección de conclusiones y trabajo futuro.
+
+* [ReporteFinal](./ReporteFinal.pdf)
 
 ---
 
