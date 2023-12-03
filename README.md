@@ -68,6 +68,8 @@ Se proporcionará a los participantes un conjunto de datos* detallado relacionad
 
 - **Deployment**: Uso de alguna plataforma en el cual se pueda hacer consulta de la aplicación generada (Shiny, Streamlit, GitHub Pages).
 
+* [DasboardMaquetado](https://lookerstudio.google.com/reporting/7aa13f91-a5b4-4f40-94d7-9c4d3c599141)
+
 - **Reporte Final** (con perspectiva de negocio) que incluya sus resultados y discusiones, así como una sección de conclusiones y trabajo futuro.
 
 * [ReporteFinal](./ReporteFinal.pdf)
